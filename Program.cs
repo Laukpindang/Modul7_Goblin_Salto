@@ -7,3 +7,6 @@ film.readJSON();
 
 showWatchlist watchlist = new showWatchlist();
 watchlist.readJSON();
+
+GenreDictionary_103022400088 genreDictionary = new GenreDictionary_103022400088();
+genreDictionary.readJSON();
