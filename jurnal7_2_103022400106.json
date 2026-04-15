@@ -1,0 +1,27 @@
+{
+    "watchlistName": "Nimek",
+    "createdBy": "Rawr",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Cosmic Princess Kaguya",
+            "year": 2025,
+            "genre": "Supernatural",
+            "rating": 8.7
+        },
+        {
+            "id": "F102",
+            "title": "The Wind Rises",
+            "year": 2011,
+            "genre": "Thriller",
+            "rating": 8.5
+        },
+        {
+            "id": "F103",
+            "title": "MHA",
+            "year": 2019,
+            "genre": "Superhero",
+            "rating": 8.4
+        }
+    ]
+}

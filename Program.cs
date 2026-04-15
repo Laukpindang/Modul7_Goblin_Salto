@@ -1,4 +1,23 @@
-﻿using Modul7_103022300053;
+
+using Modul7_103022400106;
+using Modul7_103022300053;
+
+
+Console.WriteLine();
+//Rawikara
+var filmFavorit = new FilmFavorit_103022400106();
+var watchlist = new Watchlist_103022400106();
+var genreDictionary = new GenreDictionary_103022400106();
+
+filmFavorit.readJson();
+
+Console.WriteLine("\n");
+
+watchlist.readJson();
+
+Console.WriteLine("\n");
+
+genreDictionary.readJson();
 
 FilmFavorit_103022400053 fff = new FilmFavorit_103022400053();
 fff.ReadJson();
