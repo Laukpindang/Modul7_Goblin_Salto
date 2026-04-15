@@ -36,7 +36,7 @@ namespace Modul7_103022300053
             Console.WriteLine($"Name : {gd.GenreDictionary.GenreInfo.name}");
             Console.WriteLine($"Description : {gd.GenreDictionary.GenreInfo.description}");
             Console.Write($"Popular Movies :");
-            gd.GenreDictionary.GenreInfo.popularMovies.ForEach(x => Console.WriteLine(x+", "));
+            gd.GenreDictionary.GenreInfo.popularMovies.ForEach(x => Console.Write(x+", "));
         }
     }
 }
